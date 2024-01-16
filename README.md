@@ -43,16 +43,16 @@ Notepad++	![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=f
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+<hr>
 
-
-
+<h2 color="red">The way to communicate with me</h2>
 
 <a href="saeedamini506750@gmail.com"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-email-48.png?raw=true"></a>
 <a href="https://www.facebook.com/saeed.amini.7528?mibextid=ZbWKwL"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-facebook-48.png?raw=true"></a>
 <a href=""><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-instagram-48.png?raw=true"></a>
 <a href="https://telegram.me/s5067"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-telegram-48.png?raw=true"></a>
 <a href="https://wa.link/hjwlkb"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-whatsapp-48.png?raw=true"></a>
-
+<a href="www.linkedin.com/in/saeed-amini-0944102a1"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-linkedin-48.png?raw=true"></a>
 
 
 
