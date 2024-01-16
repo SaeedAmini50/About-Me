@@ -47,8 +47,8 @@ Notepad++	![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=f
 
 
 
-<a href=""><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-email-48.png?raw=true"></a>
-<a href=""><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-facebook-48.png?raw=true"></a>
+<a href="saeedamini506750@gmail.com"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-email-48.png?raw=true"></a>
+<a href="https://www.facebook.com/saeed.amini.7528?mibextid=ZbWKwL"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-facebook-48.png?raw=true"></a>
 <a href=""><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-instagram-48.png?raw=true"></a>
 <a href="https://telegram.me/s5067"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-telegram-48.png?raw=true"></a>
 <a href="https://wa.link/hjwlkb"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-whatsapp-48.png?raw=true"></a>
