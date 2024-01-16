@@ -39,11 +39,20 @@ Notepad++	![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=f
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+
+
+
+<a href=""><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-email-48.png?raw=true"></a>
+<a href=""><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-facebook-48.png?raw=true"></a>
+<a href=""><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-instagram-48.png?raw=true"></a>
+<a href=""><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-telegram-48.png?raw=true"></a>
+<a href=""><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-whatsapp-48.png?raw=true"></a>
+
+
 
 
