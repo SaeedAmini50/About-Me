@@ -3,7 +3,7 @@
 
 <h2 align="center" >Hello , I'm Saeed Amini 👨‍💻 </h2>
 <h3>I am a programmer and currently striving to build my dream life  😇. I am committed to my responsibilities. 🧑‍💻</h3>
-
+<hr>
 <h2 >My Skills</h2>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,9 +45,9 @@ Notepad++	![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=f
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 <hr>
 
-<h2 color="red">The way to communicate with me</h2>
+<h2>The way to communicate with me</h2>
 
-<a href="saeedamini506750@gmail.com"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-email-48.png?raw=true"></a>
+<a href="https://www.email.com/saeedamini506750"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-email-48.png?raw=true"></a>
 <a href="https://www.facebook.com/saeed.amini.7528?mibextid=ZbWKwL"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-facebook-48.png?raw=true"></a>
 <a href=""><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-instagram-48.png?raw=true"></a>
 <a href="https://telegram.me/s5067"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-telegram-48.png?raw=true"></a>
